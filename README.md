@@ -13,7 +13,7 @@ This repository contains the design implementation of a **microstrip patch anten
 - Design a broadband microstrip antenna covering 1 GHz to 6 GHz
 - Use high-frequency substrate Rogers RT5880 with minimal loss
 - Implement accurate feed and patch placement
-- Visualize geometry using simulation tools (e.g., CST / HFSS)
+- Visualize geometry using computer simulation tool(CST)
 
 ---
 
@@ -73,15 +73,10 @@ This repository contains the design implementation of a **microstrip patch anten
 ##  Output
 
 The following images represent the simulation structure of the designed antenna:
+Designed Antenna
+ ![image](https://github.com/user-attachments/assets/ed4b3828-f2b2-4819-a3e1-c3d29196c149)
+S- parameter plot 
+![image](https://github.com/user-attachments/assets/30db6da4-499c-404a-9c59-5173cf3dcc21)
 
-<p align="center">
-  <img src="screenshots/output1.jpg" width="400"/>
-  <img src="screenshots/output2.jpg" width="400"/>
-  <img src="screenshots/output3.jpg" width="400"/>
-  <img src="screenshots/output4.jpg" width="400"/>
-</p>
 
-> ⚠️ _Replace the image paths above with actual file names from your screenshots folder._
-
----
 
