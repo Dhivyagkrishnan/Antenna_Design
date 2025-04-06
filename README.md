@@ -7,14 +7,12 @@ This repository contains the design implementation of a **microstrip patch anten
 
 - CST Studio Suite
 
-
 ## Objectives
 
 - Design a broadband microstrip antenna covering 1 GHz to 6 GHz
 - Use high-frequency substrate Rogers RT5880 with minimal loss
 - Implement accurate feed and patch placement
 - Visualize geometry using computer simulation tool(CST)
-
 
 ## Geometry Breakdown
 
@@ -28,7 +26,6 @@ This repository contains the design implementation of a **microstrip patch anten
     - Z<sub>min</sub> = 0 mm  
     - Z<sub>max</sub> = 1.575 mm  
 
-
 ### Ground Plane
 
 - **Material:** Same as patch  
@@ -38,8 +35,6 @@ This repository contains the design implementation of a **microstrip patch anten
   - **Z<sub>max</sub>:** 0 mm  
   - **Total Thickness:** 1 mm  
 
-
-
 ###  Patch
 
 - **X-dimensions:** -49/2 mm to +49/2 mm  
@@ -47,16 +42,13 @@ This repository contains the design implementation of a **microstrip patch anten
 - **Z-position:** 0 mm (flat on top of substrate)  
 - **Thickness:** 0 mm  
 
-
-
 ###  Feed Cut (Patch Cut for Feed Insertion)
 
 - **Material:** Nickel (Cut-away region)  
 - **X-dimensions:** -3.5 mm to +3.5 mm  
 - **Y-dimensions:**
   - Min: -41.3/2 mm  
-  - Max: (-41.3/2 + 14.5 mm)  
-
+  - Max: (-41.3/2 + 14.5 mm)
 
 ### Feed Insertion
 
