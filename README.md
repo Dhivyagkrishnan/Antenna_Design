@@ -7,7 +7,6 @@ This repository contains the design implementation of a **microstrip patch anten
 
 - CST Studio Suite
 
----
 
 ## Objectives
 
@@ -16,7 +15,6 @@ This repository contains the design implementation of a **microstrip patch anten
 - Implement accurate feed and patch placement
 - Visualize geometry using computer simulation tool(CST)
 
----
 
 ## Geometry Breakdown
 
@@ -30,7 +28,6 @@ This repository contains the design implementation of a **microstrip patch anten
     - Z<sub>min</sub> = 0 mm  
     - Z<sub>max</sub> = 1.575 mm  
 
----
 
 ### Ground Plane
 
@@ -41,7 +38,7 @@ This repository contains the design implementation of a **microstrip patch anten
   - **Z<sub>max</sub>:** 0 mm  
   - **Total Thickness:** 1 mm  
 
----
+
 
 ###  Patch
 
@@ -50,7 +47,7 @@ This repository contains the design implementation of a **microstrip patch anten
 - **Z-position:** 0 mm (flat on top of substrate)  
 - **Thickness:** 0 mm  
 
----
+
 
 ###  Feed Cut (Patch Cut for Feed Insertion)
 
@@ -60,7 +57,6 @@ This repository contains the design implementation of a **microstrip patch anten
   - Min: -41.3/2 mm  
   - Max: (-41.3/2 + 14.5 mm)  
 
----
 
 ### Feed Insertion
 
@@ -69,7 +65,6 @@ This repository contains the design implementation of a **microstrip patch anten
 - **Y-dimensions:** -50 mm to 0 mm  
 - **Z-dimensions:** 0 mm to 0.1 mm  
 
----
 
 ##  Output
 
