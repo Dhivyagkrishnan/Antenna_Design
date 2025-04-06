@@ -74,11 +74,11 @@ This repository contains the design implementation of a **microstrip patch anten
 ##  Output
 
 The following images represent the simulation structure of the designed antenna:
- <br>
-Designed Antenna
+ 
+### Designed Antenna
  ![image](https://github.com/user-attachments/assets/ed4b3828-f2b2-4819-a3e1-c3d29196c149)
- <br>
-S- parameter plot 
+
+### S- parameter plot 
 ![image](https://github.com/user-attachments/assets/30db6da4-499c-404a-9c59-5173cf3dcc21)
 
 
